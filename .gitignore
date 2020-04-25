@@ -13,6 +13,8 @@ debian/files
 debian/vyatta-wirelessmodem
 debian/*.debhelper.log
 debian/*.substvars
+debian/.debhelper/
+debian/changelog.*
 INSTALL
 Makefile.in
 Makefile
